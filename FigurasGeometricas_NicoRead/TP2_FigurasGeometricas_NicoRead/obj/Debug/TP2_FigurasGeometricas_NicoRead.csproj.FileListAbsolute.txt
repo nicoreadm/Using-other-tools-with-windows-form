@@ -1,0 +1,10 @@
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\bin\Debug\TP2_FigurasGeometricas_NicoRead.exe.config
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\bin\Debug\TP2_FigurasGeometricas_NicoRead.exe
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\bin\Debug\TP2_FigurasGeometricas_NicoRead.pdb
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\obj\Debug\TP2_FigurasGeometricas_NicoRead.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\obj\Debug\TP2_FigurasGeometricas_NicoRead.Form1.resources
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\obj\Debug\TP2_FigurasGeometricas_NicoRead.Properties.Resources.resources
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\obj\Debug\TP2_FigurasGeometricas_NicoRead.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\obj\Debug\TP2_FigurasGeometricas_NicoRead.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\obj\Debug\TP2_FigurasGeometricas_NicoRead.exe
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_FigurasGeometricas_NicoRead\TP2_FigurasGeometricas_NicoRead\obj\Debug\TP2_FigurasGeometricas_NicoRead.pdb

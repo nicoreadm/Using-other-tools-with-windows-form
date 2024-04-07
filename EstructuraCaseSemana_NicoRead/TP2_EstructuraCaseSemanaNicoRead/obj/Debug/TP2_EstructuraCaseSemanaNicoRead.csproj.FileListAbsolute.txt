@@ -1,0 +1,11 @@
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\bin\Debug\TP2_EstructuraCaseSemanaNicoRead.exe.config
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\bin\Debug\TP2_EstructuraCaseSemanaNicoRead.exe
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\bin\Debug\TP2_EstructuraCaseSemanaNicoRead.pdb
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\obj\Debug\TP2_EstructuraCaseSemanaNicoRead.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\obj\Debug\TP2_EstructuraCaseSemanaNicoRead.Form1.resources
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\obj\Debug\TP2_EstructuraCaseSemanaNicoRead.Form2.resources
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\obj\Debug\TP2_EstructuraCaseSemanaNicoRead.Properties.Resources.resources
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\obj\Debug\TP2_EstructuraCaseSemanaNicoRead.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\obj\Debug\TP2_EstructuraCaseSemanaNicoRead.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\obj\Debug\TP2_EstructuraCaseSemanaNicoRead.exe
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp2\TP2_EstructuraCaseSemanaNicoRead\TP2_EstructuraCaseSemanaNicoRead\obj\Debug\TP2_EstructuraCaseSemanaNicoRead.pdb
